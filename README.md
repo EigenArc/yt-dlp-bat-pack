@@ -76,6 +76,7 @@ yt-dlp-bat/
 3. ダウンロードしたい動画の **URLを貼り付け**（右クリック or Ctrl+V）して `Enter`
 4. 形式や画質の選択画面が表示される場合は、番号を入力して `Enter`
 5. ダウンロード完了後、`downloads` フォルダにファイルが保存される
+
 詳しくはnoteでも解説しています。
 [**yt-dlp用batファイルの無料配布と使い方**]
 (https://note.com/eigenarc/n/n388c7fb1c65b)
