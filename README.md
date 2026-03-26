@@ -25,9 +25,11 @@
 | `ffprobe.exe` | メディア情報の解析 | ffmpeg に同梱 |
 
 ダウンロード方法はnoteにて解説しています
-[**FFmpegをWindows11に導入する方法【初心者でも失敗しない2つの手順】**](https://note.com/eigenarc/n/n4be318a68c0e)
+[**FFmpegをWindows11に導入する方法【初心者でも失敗しない2つの手順】**]
+(https://note.com/eigenarc/n/n4be318a68c0e)
 
-[**yt-dlpの環境構築ガイド｜Windows11へのインストール方法を完全解説**](https://note.com/eigenarc/n/ndfd77945aa21)
+[**yt-dlpの環境構築ガイド｜Windows11へのインストール方法を完全解説**]
+(https://note.com/eigenarc/n/ndfd77945aa21)
 
 
 > [!IMPORTANT]
@@ -75,7 +77,8 @@ yt-dlp-bat/
 4. 形式や画質の選択画面が表示される場合は、番号を入力して `Enter`
 5. ダウンロード完了後、`downloads` フォルダにファイルが保存される
 詳しくはnoteでも解説しています。
-[**yt-dlp用batファイルの無料配布と使い方**](https://note.com/eigenarc/n/n388c7fb1c65b)
+[**yt-dlp用batファイルの無料配布と使い方**]
+(https://note.com/eigenarc/n/n388c7fb1c65b)
 
 ### 統合ダウンローダーの場合
 
